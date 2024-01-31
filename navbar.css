@@ -1,0 +1,16 @@
+.row{
+    margin-left: 0;
+    margin-right: 0px;
+}
+.card{
+    width: 288px;
+    height: 274px;
+}
+.card-img-top{
+    width: 124px;
+    height: 124px;
+}
+.card-img{
+    width: 288px;
+    height: 274px;
+}
